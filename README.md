@@ -1,2 +1,2 @@
-# x86virtualization.com
-x86virtualization.com public site template
+# ARMVirtualization.com
+ARM Virtualization.com public site template
